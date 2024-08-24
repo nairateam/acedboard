@@ -1,0 +1,8 @@
+.gradient {
+    background: linear-gradient(85.23deg, #6495ED 4.62%, #DE3163 91.89%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+    display: none;
+  }
+  
